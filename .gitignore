@@ -8,11 +8,13 @@
 /[Bb]uild/
 /[Bb]uilds/
 /[Ll]ogs/
-/[Uu]ser[Ss]ettings/
-/[Bb]ackups/
-/[Qq]uest Builds/
+/[Uu]ser
+/[Ss]ettings/
+/[Aa]ssets/Oculus/
 /[Aa]ssets/ExampleAssets/
 /[Aa]ssets/Samples/
+/[Rr]esources/
+/[Qq]uest Builds/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
